@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: grey;
 }
 
 h1 {
@@ -17,4 +17,8 @@ td {
 
 li {
     font-family: 'Flamenco', cursive;
+}
+
+table, th, td {
+    border: 1px solid black;
 }
